@@ -1,6 +1,6 @@
 # Privacy Policy
 
-### Effective Date: [Insert Date]
+### Effective Date: Nov 29, 2024
 
 **Tapray Studio** ("we," "our," or "us") respects your privacy and is committed to protecting it. This Privacy Policy explains how we collect, use, and share your data in compliance with applicable privacy laws, including the General Data Protection Regulation (GDPR) in the European Union and the California Consumer Privacy Act (CCPA) in the United States.
 
